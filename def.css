@@ -1,0 +1,17 @@
+body{
+    background-color: #181818;
+}
+#container {
+    height: auto;
+    width: auto;
+    background-color: #6cb8b7
+}
+header{
+    float: inherit;
+    width: 800px;
+    height: 30px;
+    background-color: #40a5e9;
+}
+li{
+display: inline;
+}
