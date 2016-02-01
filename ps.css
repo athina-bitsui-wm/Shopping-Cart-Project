@@ -1,0 +1,22 @@
+body{
+    background-color: #181818;
+}
+#container {
+    height: 800px;
+    width: 900px;
+    float: center;
+    background-color: #6cb8b7
+}
+header{
+    float: left;
+    width: 895px;
+    height: 60px;
+    background-color: #40a5e9;
+}
+div.naruto{
+    float:left;
+    display: inline;
+}
+div.sasuke{
+    float: right;
+}
