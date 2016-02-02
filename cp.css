@@ -1,0 +1,12 @@
+body{
+    background-color: #252525;
+}
+#container{
+    width: auto;
+    height: auto;
+    background-color: #40a5e9;
+}
+header{
+    width:auto;
+    height: 15px;
+}
