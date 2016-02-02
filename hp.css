@@ -1,0 +1,33 @@
+body{
+    background-color: #181818;
+}
+#container{
+    width: auto;
+    height:auto;
+    background-color: #40a5e9;
+}
+header{
+    background-color: gray;
+}
+div.ryuu{
+    text-align: center;
+}
+div.taro{
+    text-align: end;
+    width: 1400px;
+}
+nav{
+    background-color: grey;
+    height: 20px;
+    text-align: center;
+}
+li{
+    color: #40a5e9;
+    display: inline;
+}
+a{
+    color: darkgreen;
+}
+div.pic1{
+    text-align: center;
+}
