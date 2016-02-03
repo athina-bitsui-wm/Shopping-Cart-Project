@@ -1,13 +1,14 @@
 body{
-    background-color: #181818;
+    background-image: url(Rainbow-Candy-HD-Wallpaper.jpg);
 }
 #container{
     width: auto;
     height:auto;
-    background-color: #40a5e9;
+
 }
 header{
-    background-color: gray;
+    height: 43px;
+
 }
 div.ryuu{
     text-align: center;
@@ -17,12 +18,11 @@ div.taro{
     width: 1400px;
 }
 nav{
-    background-color: grey;
     height: 20px;
     text-align: center;
 }
 li{
-    color: #40a5e9;
+
     display: inline;
 }
 a{
@@ -30,4 +30,8 @@ a{
 }
 div.pic1{
     text-align: center;
+}
+footer{
+    height: 55px;
+
 }

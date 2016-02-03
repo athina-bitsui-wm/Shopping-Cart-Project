@@ -1,12 +1,18 @@
 body{
-    background-color: #252525;
+    background-image: url(Rainbow-Candy-HD-Wallpaper.jpg);
 }
 #container{
     width: auto;
     height: auto;
-    background-color: #40a5e9;
 }
 header{
     width:auto;
     height: 15px;
+}
+nav{
+    color: #e971a2;
+    text-align: center;
+}
+li{
+    display: inline;
 }
