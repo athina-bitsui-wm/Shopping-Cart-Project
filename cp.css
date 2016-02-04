@@ -8,6 +8,7 @@ body{
 header{
     width:auto;
     height: 15px;
+    text-align: center;
 }
 nav{
     color: #e971a2;

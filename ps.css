@@ -1,22 +1,29 @@
 body{
-    background-color: #181818;
+    background-image: url(Rainbow-Candy-HD-Wallpaper.jpg);
 }
-#container {
-    height: 800px;
-    width: 900px;
-    float: center;
-    background-color: #6cb8b7
+#cantainer{
+    width: auto;
+    height: auto;
 }
 header{
-    float: left;
-    width: 895px;
-    height: 60px;
-    background-color: #40a5e9;
+    height: 45px;
+    color: #e971a2;
 }
-div.naruto{
-    float:left;
+div.mulan{
+    text-align: center;
+}
+div.shan{
+    float: right;
+}
+nav{
+    text-align: center;
+}
+li{
     display: inline;
 }
-div.sasuke{
-    float: right;
+div.ma {
+    text-align: center;
+}
+a{
+    color: #e971a2;
 }
