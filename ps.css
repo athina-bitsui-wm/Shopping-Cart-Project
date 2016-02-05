@@ -1,24 +1,26 @@
 body{
     background-image: url(Rainbow-Candy-HD-Wallpaper.jpg);
 }
-#cantainer{
+#container{
     height: auto;
     width: auto;
 }
 header{
-    height: auto;
+    height: 43px;
 }
 div.panda{
     text-align: center;
-    color: #dc3fa1;
 }
-div.red{
+div.po{
     float: right;
 }
 nav{
-    color: #dc3fa1;
+    height: 30px;
     text-align: center;
 }
 li{
     display: inline;
+}
+div.dragon{
+    text-align: center;
 }
