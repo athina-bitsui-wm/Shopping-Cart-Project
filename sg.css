@@ -1,0 +1,28 @@
+body{
+    background-image: url(candy.jpg)
+}
+#container{
+    height:auto;
+    width: auto;
+}
+header{
+    text-align: center;
+    color: #dc3fa1;
+}
+div.forms{
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+input{
+    line-height: 50px;
+    width: 400px;
+    font-size: 24px;
+}
+li{
+    display: inline;
+}
+a{
+    color: #dc3fa1;
+}

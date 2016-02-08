@@ -1,0 +1,30 @@
+body{
+    background-image: url(candy.jpg);
+}
+#container{
+    height:auto;
+    width: auto;
+}
+header{
+    width: 45px;
+    height: auto;
+}
+div.sasuke{
+    float: left;
+}
+div.naruto{
+    float: right;
+}
+nav{
+    height: 10px;
+    width: auto;
+}
+li{
+    display: inline;
+}
+div.pics{
+    text-align: center;
+}
+#footer{
+    text-align: center;
+}
