@@ -1,0 +1,26 @@
+body{
+    background-image: url(candy.jpg);
+}
+#container{
+    height: auto;
+    width: auto;
+}
+header{
+    height: 43px;
+}
+div.panda{
+    text-align: center;
+}
+div.po{
+    float: right;
+}
+nav{
+    height: 30px;
+    text-align: center;
+}
+li{
+    display: inline;
+}
+div.dragon{
+    text-align: center;
+}
