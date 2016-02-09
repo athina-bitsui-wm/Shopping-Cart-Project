@@ -6,17 +6,14 @@ body{
     width: auto;
 }
 header{
-    width: 45px;
-    height: auto;
+    width: auto;
+    height: 45px;
 }
 div.sasuke{
     float: left;
 }
-div.naruto{
-    float: right;
-}
 nav{
-    height: 10px;
+    height: 40px;
     width: auto;
 }
 li{
@@ -27,4 +24,7 @@ div.pics{
 }
 #footer{
     text-align: center;
+}
+a{
+    color: #dc3fa1;
 }
