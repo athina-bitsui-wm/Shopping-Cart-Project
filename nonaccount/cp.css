@@ -28,10 +28,11 @@ div.natsu{
 li{
     display: inline;
 }
-div.nana{
+div.drey{
     text-align: center;
-    height: 600px;
     color: deeppink;
+    font-size: 35px;
+    height: 605px;
 }
 #footer{
     text-align: center;
@@ -90,8 +91,8 @@ a{
 }
 #primary_nav_wrap
 {
-    margin-top:15px
-text-align: center;
+    margin-top:15px;
+    text-align: center;
 }
 
 #primary_nav_wrap ul
