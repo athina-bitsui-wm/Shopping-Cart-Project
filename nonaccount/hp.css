@@ -30,7 +30,7 @@ li{
 }
 div.nana{
     text-align: center;
-    height: 594px;
+    height: auto;
 }
 #footer{
     text-align: center;
@@ -38,7 +38,7 @@ div.nana{
     background-color: #c316b5;
 }
 a{
-    color: #b148ff
+    color: deeppink;
 }
 .button {
     border: 0px solid #fa004b;
