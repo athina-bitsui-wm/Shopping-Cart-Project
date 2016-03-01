@@ -28,6 +28,9 @@ div.natsu{
 li{
     display: inline;
 }
+div.mom{
+    text-align: center;
+ }
 div.nana{
     text-align: center;
 }
@@ -35,6 +38,9 @@ div.japan{
     text-align: center;
 }
 div.china{
+    text-align: center;
+}
+div.dad{
     text-align: center;
 }
 #footer{
