@@ -57,9 +57,15 @@
         </table>
     </div>
 
+    <div id="top">
+
+    </div>
     <!-- top end -->
 
     <!-- bottom -->
+    <div id="bottom">
+
+    </div>
     <!-- bottom end -->
 </div>
 </body>
