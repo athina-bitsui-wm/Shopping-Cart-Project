@@ -1,0 +1,274 @@
+body{
+    background-image: url(candy.jpg);
+}
+#container{
+    width: auto;
+    height: auto;
+}
+header{
+    height: 100px;
+    color: deeppink;
+}
+div.naruto{
+    text-align: center;
+}
+div.sasuke{
+    float: right;
+}
+div.dragon{
+    text-align: center;
+}
+nav {
+    height: 23px;
+    text-align: center;
+}
+div.natsu{
+    float: right;
+}
+li{
+    display: inline;
+}
+div.bob{
+    border-style: groove;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
+#footer{
+    text-align: center;
+    height:55px;
+    background-color: #c316b5;
+}
+a{
+    color: deeppink;
+}
+.button {
+    border: 0px solid #fa004b;
+    background: #4e369c;
+    background: -webkit-gradient(linear, left top, left bottom, from(#eb11a6), to(#4e369c));
+    background: -webkit-linear-gradient(top, #eb11a6, #4e369c);
+    background: -moz-linear-gradient(top, #eb11a6, #4e369c);
+    background: -ms-linear-gradient(top, #eb11a6, #4e369c);
+    background: -o-linear-gradient(top, #eb11a6, #4e369c);
+    background-image: -ms-linear-gradient(top, #eb11a6 0%, #4e369c 100%);
+    padding: 8px 16px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    -webkit-box-shadow: rgba(255,255,255,0.4) 0 0px 0, inset rgba(255,255,255,0.4) 0 0px 0;
+    -moz-box-shadow: rgba(255,255,255,0.4) 0 0px 0, inset rgba(255,255,255,0.4) 0 0px 0;
+    box-shadow: rgba(255,255,255,0.4) 0 0px 0, inset rgba(255,255,255,0.4) 0 0px 0;
+    text-shadow: #00ada4 0 1px 0;
+    color: #067ac7;
+    font-size: 24px;
+    font-family: helvetica, serif;
+    text-decoration: none;
+    vertical-align: middle;
+}
+.button:hover {
+    border: 0px solid #9e0634;
+    text-shadow: #3bccc0 0 1px 0;
+    background: #200d61;
+    background: -webkit-gradient(linear, left top, left bottom, from(#9c0970), to(#200d61));
+    background: -webkit-linear-gradient(top, #9c0970, #200d61);
+    background: -moz-linear-gradient(top, #9c0970, #200d61);
+    background: -ms-linear-gradient(top, #9c0970, #200d61);
+    background: -o-linear-gradient(top, #9c0970, #200d61);
+    background-image: -ms-linear-gradient(top, #9c0970 0%, #200d61 100%);
+    color: #3e95c7;
+}
+.button:active {
+    text-shadow: #09e0bc 0 1px 0;
+    border: 0px solid #040b0f;
+    background: #9413f0;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ff00c4), to(#200d61));
+    background: -webkit-linear-gradient(top, #ff00c4, #9413f0);
+    background: -moz-linear-gradient(top, #ff00c4, #9413f0);
+    background: -ms-linear-gradient(top, #ff00c4, #9413f0);
+    background: -o-linear-gradient(top, #ff00c4, #9413f0);
+    background-image: -ms-linear-gradient(top, #ff00c4 0%, #9413f0 100%);
+    color: #ef87ff;
+}
+#primary_nav_wrap
+{
+    margin-top:15px;
+    text-align: center;
+}
+
+#primary_nav_wrap ul
+{
+    list-style:none;
+    position:relative;
+    float: left;
+    margin:0;
+    padding:0
+}
+
+#primary_nav_wrap ul a
+{
+    display:block;
+    color:#333;
+    text-decoration:none;
+    font-weight:700;
+    font-size:12px;
+    line-height:32px;
+    padding:0 15px;
+    font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
+}
+
+#primary_nav_wrap ul li
+{
+    position:relative;
+    float:left;
+    margin:0;
+    padding:0
+}
+
+#primary_nav_wrap ul li.current-menu-item
+{
+    background: #ffb7eb
+}
+
+#primary_nav_wrap ul li:hover
+{
+    background: #ff58e3;
+}
+
+#primary_nav_wrap ul ul
+{
+    display:none;
+    position:absolute;
+    top:100%;
+    left:0;
+    background:#ffb7eb;
+    padding:0
+}
+
+#primary_nav_wrap ul ul li
+{
+    float:none;
+    width:200px
+}
+
+#primary_nav_wrap ul ul a
+{
+    line-height:120%;
+    padding:10px 15px
+}
+
+#primary_nav_wrap ul ul ul
+{
+    top:0;
+    left:100%
+}
+
+#primary_nav_wrap ul li:hover > ul
+{
+    display:block
+}
+.icon-cart {
+    width: 48px;
+    height: 48px;
+    position: relative;
+    overflow: hidden;
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+
+.icon-cart .cart-line-1 {
+    width: 15%;
+    height: 7%;
+    position: absolute;
+    left: 8%;
+    top: 25%;
+    -webkit-transform: rotate(5deg);
+    -moz-transform: rotate(5deg);
+    -ms-transform: rotate(5deg);
+    transform: rotate(5deg);
+    background-color: #dc3fa1;
+    border-bottom-left-radius: 35%;
+}
+
+.icon-cart .cart-line-2 {
+    width: 35%;
+    height: 7%;
+    position: absolute;
+    left: 6%;
+    top: 40%;
+    -webkit-transform: rotate(80deg);
+    -moz-transform: rotate(80deg);
+    -ms-transform: rotate(80deg);
+    transform: rotate(80deg);
+    background-color: #dc3fa1;
+}
+
+.icon-cart .cart-line-2:before {
+    content: "";
+    width: 120%;
+    height: 100%;
+    position: absolute;
+    left: 45%;
+    top: -280%;
+    -webkit-transform: rotate(-80deg);
+    -moz-transform: rotate(-80deg);
+    -ms-transform: rotate(-80deg);
+    transform: rotate(-80deg);
+    background-color: inherit;
+}
+
+.icon-cart .cart-line-2:after {
+    content: "";
+    width: 70%;
+    height: 100%;
+    position: absolute;
+    left: 59%;
+    top: -670%;
+    background-color: inherit;
+    -webkit-transform: rotate(40deg);
+    -moz-transform: rotate(40deg);
+    -ms-transform: rotate(40deg);
+    transform: rotate(40deg);
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 25%;
+}
+
+.icon-cart .cart-line-3 {
+    width: 30%;
+    height: 7%;
+    position: absolute;
+    left: 33%;
+    top: 45%;
+    background-color: #dc3fa1;
+}
+
+.icon-cart .cart-line-3:after {
+    content: "";
+    width: 124%;
+    height: 100%;
+    position: absolute;
+    top: -150%;
+    left: -5%;
+    background-color: inherit;
+}
+
+.icon-cart .cart-wheel {
+    width: 12%;
+    height: 12%;
+    background-color: #dc3fa1;
+    border-radius: 100%;
+    position: absolute;
+    left: 28%;
+    bottom: 20%;
+}
+
+.icon-cart .cart-wheel:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-color: inherit;
+    border-radius: 100%;
+    position: absolute;
+    left: 200%;
+    bottom: 0;
+}

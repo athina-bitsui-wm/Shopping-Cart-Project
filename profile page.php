@@ -3,6 +3,7 @@
 
 <head>
     <title>Candy</title>
+    <link rel="stylesheet" type="text/css" href="pk.css">
 </head>
 
 <body>
@@ -46,25 +47,18 @@
 
     <!-- top -->
     <div class="bob">
-        <img src="photo.png" height="" width="">
-    </div>
-    <div class="dog">
-        <table>
-            <tr>
-                <td><h3>Name</h3></td>
-                <td></td>
-            </tr>
-        </table>
-    </div>
-
-    <div id="top">
-
+        <div class="naru">
+        <img src="photo.png" height="350" width="350">
+        </div>
+        <div class="sasu">
+            <h2>name/username</h2>
+        </div>
     </div>
     <!-- top end -->
 
     <!-- bottom -->
     <div id="bottom">
-
+        
     </div>
     <!-- bottom end -->
 </div>
